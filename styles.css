@@ -135,3 +135,8 @@ img {
     max-width: 100%;  /* Hace que la imagen no sea más grande que su contenedor */
     height: auto;  /* Mantiene la proporción de la imagen */
 }
+
+.soste {
+    width: 300px; /* Define un ancho específico */
+    height: auto;  /* Mantiene la proporción */
+}
