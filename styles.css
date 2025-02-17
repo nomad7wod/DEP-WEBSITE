@@ -137,6 +137,9 @@ img {
 }
 
 .soste {
-    width: 300px; /* Define un ancho específico */
+    width: 50%;  /* Ajusta al 50% del contenedor */
+    max-width: 300px;  /* Limita el tamaño máximo */
     height: auto;  /* Mantiene la proporción */
+    display: block;  /* Asegura que se centre bien */
+    margin: 20px auto;  /* Centra la imagen */
 }
